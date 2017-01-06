@@ -1,0 +1,39 @@
+[23-Apr-2016 19:46:51 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/js/categories/categories.php on line 2
+[23-Apr-2016 19:46:51 UTC] PHP Stack trace:
+[23-Apr-2016 19:46:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/categories/categories.php:0
+[23-Apr-2016 19:46:51 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/js/categories/categories.php on line 2
+[23-Apr-2016 19:46:51 UTC] PHP Stack trace:
+[23-Apr-2016 19:46:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/categories/categories.php:0
+[23-Apr-2016 19:48:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/js/categories/categories.php on line 9
+[24-Apr-2016 04:47:52 UTC] PHP Warning:  require(../../../connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/js/profile/profile.php on line 2
+[24-Apr-2016 04:47:52 UTC] PHP Stack trace:
+[24-Apr-2016 04:47:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/profile/profile.php:0
+[24-Apr-2016 04:47:52 UTC] PHP Fatal error:  require(): Failed opening required '../../../connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/js/profile/profile.php on line 2
+[24-Apr-2016 04:47:52 UTC] PHP Stack trace:
+[24-Apr-2016 04:47:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/profile/profile.php:0
+[24-Apr-2016 05:05:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/profile/profile.php on line 10
+[24-Apr-2016 05:05:26 UTC] PHP Stack trace:
+[24-Apr-2016 05:05:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/profile/profile.php:0
+[24-Apr-2016 05:05:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/profile/profile.php:10
+[24-Apr-2016 05:05:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/profile/profile.php on line 10
+[24-Apr-2016 05:05:27 UTC] PHP Stack trace:
+[24-Apr-2016 05:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/profile/profile.php:0
+[24-Apr-2016 05:05:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/profile/profile.php:10
+[24-Apr-2016 05:07:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/js/profile/profile.php on line 22
+[24-Apr-2016 05:07:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/js/profile/profile.php on line 22
+[24-Apr-2016 05:07:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/js/profile/profile.php on line 22
+[02-May-2016 13:59:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[02-May-2016 13:59:44 UTC] PHP Stack trace:
+[02-May-2016 13:59:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/categories/categories.php:0
+[02-May-2016 13:59:44 UTC] PHP   2. require() /home/ubuntu/workspace/js/categories/categories.php:2
+[02-May-2016 13:59:44 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8
+[03-Jun-2016 20:41:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[03-Jun-2016 20:41:55 UTC] PHP Stack trace:
+[03-Jun-2016 20:41:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/categories/categories.php:0
+[03-Jun-2016 20:41:55 UTC] PHP   2. require() /home/ubuntu/workspace/js/categories/categories.php:2
+[03-Jun-2016 20:41:55 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8
+[12-Aug-2016 11:45:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[12-Aug-2016 11:45:50 UTC] PHP Stack trace:
+[12-Aug-2016 11:45:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/categories/categories.php:0
+[12-Aug-2016 11:45:50 UTC] PHP   2. require() /home/ubuntu/workspace/js/categories/categories.php:2
+[12-Aug-2016 11:45:50 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8

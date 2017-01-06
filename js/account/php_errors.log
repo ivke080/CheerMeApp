@@ -1,0 +1,291 @@
+[23-Apr-2016 21:18:02 UTC] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/js/account/login/login.php on line 2
+[23-Apr-2016 21:18:02 UTC] PHP Stack trace:
+[23-Apr-2016 21:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login.php:0
+[23-Apr-2016 21:18:02 UTC] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/js/account/login/login.php on line 2
+[23-Apr-2016 21:18:02 UTC] PHP Stack trace:
+[23-Apr-2016 21:18:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login.php:0
+[23-Apr-2016 21:18:42 UTC] PHP Warning:  require(../../connect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/js/account/login/login.php on line 2
+[23-Apr-2016 21:18:42 UTC] PHP Stack trace:
+[23-Apr-2016 21:18:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login.php:0
+[23-Apr-2016 21:18:42 UTC] PHP Fatal error:  require(): Failed opening required '../../connect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/js/account/login/login.php on line 2
+[23-Apr-2016 21:18:42 UTC] PHP Stack trace:
+[23-Apr-2016 21:18:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login.php:0
+[23-Apr-2016 21:59:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/js/account/login/login.php on line 2
+[23-Apr-2016 22:37:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/js/account/login/login_post.php on line 19
+[23-Apr-2016 22:37:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/js/account/login/login_post.php on line 19
+[23-Apr-2016 22:59:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 10
+[23-Apr-2016 22:59:58 UTC] PHP Stack trace:
+[23-Apr-2016 22:59:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[23-Apr-2016 22:59:58 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:10
+[23-Apr-2016 23:54:32 UTC] PHP Warning:  include(consts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/js/account/login/login_post.php on line 3
+[23-Apr-2016 23:54:32 UTC] PHP Stack trace:
+[23-Apr-2016 23:54:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[23-Apr-2016 23:54:32 UTC] PHP Warning:  include(): Failed opening 'consts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/js/account/login/login_post.php on line 3
+[23-Apr-2016 23:54:32 UTC] PHP Stack trace:
+[23-Apr-2016 23:54:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 00:18:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 21
+[24-Apr-2016 00:18:03 UTC] PHP Stack trace:
+[24-Apr-2016 00:18:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:18:03 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:21
+[24-Apr-2016 00:20:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 21
+[24-Apr-2016 00:20:39 UTC] PHP Stack trace:
+[24-Apr-2016 00:20:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:20:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:21
+[24-Apr-2016 00:21:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 21
+[24-Apr-2016 00:21:19 UTC] PHP Stack trace:
+[24-Apr-2016 00:21:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:21:19 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:21
+[24-Apr-2016 00:23:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:23:18 UTC] PHP Stack trace:
+[24-Apr-2016 00:23:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:23:18 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:23:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 21
+[24-Apr-2016 00:23:18 UTC] PHP Stack trace:
+[24-Apr-2016 00:23:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:23:18 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:21
+[24-Apr-2016 00:23:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:23:48 UTC] PHP Stack trace:
+[24-Apr-2016 00:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:23:48 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:39:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:39:40 UTC] PHP Stack trace:
+[24-Apr-2016 00:39:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:39:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:42:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:42:20 UTC] PHP Stack trace:
+[24-Apr-2016 00:42:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:42:20 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:49:40 UTC] PHP Stack trace:
+[24-Apr-2016 00:49:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:49:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:49:50 UTC] PHP Stack trace:
+[24-Apr-2016 00:49:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:49:50 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:50:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:50:25 UTC] PHP Stack trace:
+[24-Apr-2016 00:50:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:50:25 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:50:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:50:49 UTC] PHP Stack trace:
+[24-Apr-2016 00:50:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:50:49 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:50:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:50:58 UTC] PHP Stack trace:
+[24-Apr-2016 00:50:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:50:58 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:52:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:52:57 UTC] PHP Stack trace:
+[24-Apr-2016 00:52:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:52:57 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:55:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:55:03 UTC] PHP Stack trace:
+[24-Apr-2016 00:55:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:55:03 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:55:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:55:16 UTC] PHP Stack trace:
+[24-Apr-2016 00:55:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:55:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 00:55:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 00:55:25 UTC] PHP Stack trace:
+[24-Apr-2016 00:55:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 00:55:25 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 01:02:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 01:02:26 UTC] PHP Stack trace:
+[24-Apr-2016 01:02:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 01:02:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 01:03:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 01:03:58 UTC] PHP Stack trace:
+[24-Apr-2016 01:03:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 01:03:58 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 01:04:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 01:04:29 UTC] PHP Stack trace:
+[24-Apr-2016 01:04:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 01:04:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 01:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 01:05:29 UTC] PHP Stack trace:
+[24-Apr-2016 01:05:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 01:05:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 01:06:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 01:06:55 UTC] PHP Stack trace:
+[24-Apr-2016 01:06:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 01:06:55 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:14:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:14:49 UTC] PHP Stack trace:
+[24-Apr-2016 02:14:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:14:49 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:21:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:21:40 UTC] PHP Stack trace:
+[24-Apr-2016 02:21:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:21:40 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:21:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:21:50 UTC] PHP Stack trace:
+[24-Apr-2016 02:21:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:21:50 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:22:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:22:01 UTC] PHP Stack trace:
+[24-Apr-2016 02:22:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:22:01 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:22:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:22:11 UTC] PHP Stack trace:
+[24-Apr-2016 02:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:22:11 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:22:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:22:11 UTC] PHP Stack trace:
+[24-Apr-2016 02:22:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:22:11 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:22:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:22:20 UTC] PHP Stack trace:
+[24-Apr-2016 02:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:22:20 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:23:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:23:27 UTC] PHP Stack trace:
+[24-Apr-2016 02:23:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:23:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:23:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:23:37 UTC] PHP Stack trace:
+[24-Apr-2016 02:23:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:23:37 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:25:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:25:00 UTC] PHP Stack trace:
+[24-Apr-2016 02:25:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:25:00 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:26:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:26:19 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:26:19 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:26:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:26:20 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:26:20 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:26:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:26:21 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:26:21 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:26:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:26:22 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:26:22 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:26:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:26:23 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:26:23 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:26:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:26:27 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:26:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:26:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:26:37 UTC] PHP Stack trace:
+[24-Apr-2016 02:26:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:26:37 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:27:16 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:27:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:27:16 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:27:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:27:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:27:16 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:27:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:27:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:27:17 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:27:17 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:27:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:27:18 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:27:18 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:27:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:27:27 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:27:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:27:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/login/login_post.php on line 11
+[24-Apr-2016 02:27:33 UTC] PHP Stack trace:
+[24-Apr-2016 02:27:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[24-Apr-2016 02:27:33 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/login/login_post.php:11
+[24-Apr-2016 02:28:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:28:38 UTC] PHP Stack trace:
+[24-Apr-2016 02:28:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:28:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:29:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:29:02 UTC] PHP Stack trace:
+[24-Apr-2016 02:29:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:29:02 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:52:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:52:17 UTC] PHP Stack trace:
+[24-Apr-2016 02:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:52:17 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:53:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:53:11 UTC] PHP Stack trace:
+[24-Apr-2016 02:53:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:53:11 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:54:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:54:00 UTC] PHP Stack trace:
+[24-Apr-2016 02:54:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:54:00 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:54:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:54:42 UTC] PHP Stack trace:
+[24-Apr-2016 02:54:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:54:42 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:54:49 UTC] PHP Stack trace:
+[24-Apr-2016 02:54:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:54:49 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:54:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:54:54 UTC] PHP Stack trace:
+[24-Apr-2016 02:54:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:54:54 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:55:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:55:21 UTC] PHP Stack trace:
+[24-Apr-2016 02:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:55:21 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 02:58:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 02:58:47 UTC] PHP Stack trace:
+[24-Apr-2016 02:58:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 02:58:47 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 03:02:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 03:02:04 UTC] PHP Stack trace:
+[24-Apr-2016 03:02:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 03:02:04 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 03:03:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 03:03:39 UTC] PHP Stack trace:
+[24-Apr-2016 03:03:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 03:03:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 03:03:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 03:03:51 UTC] PHP Stack trace:
+[24-Apr-2016 03:03:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 03:03:51 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 03:06:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 03:06:52 UTC] PHP Stack trace:
+[24-Apr-2016 03:06:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 03:06:52 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 03:07:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 12
+[24-Apr-2016 03:07:42 UTC] PHP Stack trace:
+[24-Apr-2016 03:07:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[24-Apr-2016 03:07:42 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/js/account/signup/signup_post.php:12
+[24-Apr-2016 03:11:01 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ubuntu/workspace/js/account/signup/signup_post.php on line 11
+[24-Apr-2016 04:22:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/js/account/login/login.php on line 4
+[25-Apr-2016 09:20:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[25-Apr-2016 09:20:26 UTC] PHP Stack trace:
+[25-Apr-2016 09:20:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[25-Apr-2016 09:20:26 UTC] PHP   2. require() /home/ubuntu/workspace/js/account/login/login_post.php:2
+[25-Apr-2016 09:20:26 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8
+[25-Apr-2016 09:20:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[25-Apr-2016 09:20:37 UTC] PHP Stack trace:
+[25-Apr-2016 09:20:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[25-Apr-2016 09:20:37 UTC] PHP   2. require() /home/ubuntu/workspace/js/account/login/login_post.php:2
+[25-Apr-2016 09:20:37 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8
+[03-Jun-2016 20:40:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[03-Jun-2016 20:40:41 UTC] PHP Stack trace:
+[03-Jun-2016 20:40:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/login/login_post.php:0
+[03-Jun-2016 20:40:41 UTC] PHP   2. require() /home/ubuntu/workspace/js/account/login/login_post.php:2
+[03-Jun-2016 20:40:41 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8
+[03-Jun-2016 20:41:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/ubuntu/workspace/connect.php on line 8
+[03-Jun-2016 20:41:43 UTC] PHP Stack trace:
+[03-Jun-2016 20:41:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/js/account/signup/signup_post.php:0
+[03-Jun-2016 20:41:43 UTC] PHP   2. require() /home/ubuntu/workspace/js/account/signup/signup_post.php:2
+[03-Jun-2016 20:41:43 UTC] PHP   3. mysqli_connect() /home/ubuntu/workspace/connect.php:8

@@ -1,0 +1,32 @@
+var app=angular.module("hackathonapp",["ngRoute","firebase"]);
+app.config(["$routeProvider",function($routeProvider){
+    $routeProvider.when('/',{
+        templateUrl:'/js/main/main.php',
+        controller:'MainController'
+    })
+    .when('/categories',{
+        templateUrl:"js/categories/categories.php",
+        controller:"CategoriesController"
+    })
+    .when('/login',{
+        templateUrl:'js/account/login/login.php',
+        controller:"LoginController"
+    })
+    .when('/signup',{
+        templateUrl:'js/account/signup/signup.php'
+    })
+    .when('/topic',{
+        templateUrl:'js/topic/create_topic.php',
+        controller:'TopicController'
+    })
+    .when('/chat/:id',{
+        templateUrl:'js/chat/chat.php',
+        controller:'ChatController'
+    })
+    .when('/profile',{
+        templateUrl:'js/profile/profile.php'
+    })
+    .otherwise({
+        redirectTo:'/'
+    });
+}]);
