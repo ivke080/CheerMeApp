@@ -2,7 +2,7 @@
 Help people with their problems in 1 on 1 anonymous chat.
 ======
 
-If you have problem or you want to help someone with their problems, our app is for you. We made it on 24h MATF hackathon in Belgrade and topic was "make me happy". Main idea is when you help someone you are happy, and when someone helps you you feed better. App is fully optimized for all screens and devices.
+If you have problem or you want to help someone with their problems, our app is for you. We made it on 24h MATF hackathon in Belgrade and topic was "make me happy". Main idea is when you help someone you are happy, and when someone helps you you feel better. App is fully optimized for all screens and devices.
 ------
 test acc: zeka : 12345
 
